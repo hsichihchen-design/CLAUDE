@@ -1,0 +1,190 @@
+{
+  "version": "2026-11-09",
+  "criteria": {
+    "gameplay": "遊戲性",
+    "originality": "原創性",
+    "emotional_depth": "情感深度",
+    "virality": "傳播潛力",
+    "commercial": "商業潛力",
+    "feasibility": "開發可行性",
+    "replay": "重玩價值",
+    "theme_integration": "主題融合"
+  },
+  "weights_scenario_commercial_first": {
+    "gameplay": 2,
+    "originality": 1,
+    "emotional_depth": 1,
+    "virality": 1,
+    "commercial": 1.5,
+    "feasibility": 1.5,
+    "replay": 1,
+    "theme_integration": 1.5
+  },
+  "note_zh": "1–5 分，5 永遠代表對專案有利；為研究團隊主觀推論，誤差約 ±1，非市場預測。",
+  "directions": [
+    {
+      "id": "A",
+      "name_zh": "人生牌組",
+      "name_en": "Life Deck：Roguelite 牌組構築",
+      "scores": {
+        "gameplay": 5,
+        "originality": 3,
+        "emotional_depth": 3,
+        "virality": 4,
+        "commercial": 4,
+        "feasibility": 4,
+        "replay": 5,
+        "theme_integration": 3
+      },
+      "mean": 3.88,
+      "weighted_mean": 3.95,
+      "mechanics": [
+        "MEC-017",
+        "MEC-021",
+        "MEC-019",
+        "MEC-023",
+        "MEC-002",
+        "MEC-016"
+      ]
+    },
+    {
+      "id": "B",
+      "name_zh": "社區的那些人",
+      "name_en": "Clubhouse：社區空間經營＋觀察居民人生",
+      "scores": {
+        "gameplay": 4,
+        "originality": 4,
+        "emotional_depth": 4,
+        "virality": 4,
+        "commercial": 3,
+        "feasibility": 3,
+        "replay": 4,
+        "theme_integration": 5
+      },
+      "mean": 3.88,
+      "weighted_mean": 3.86,
+      "mechanics": [
+        "MEC-018",
+        "MEC-004",
+        "MEC-011",
+        "MEC-012",
+        "MEC-002",
+        "MEC-013"
+      ]
+    },
+    {
+      "id": "C",
+      "name_zh": "傳家的習慣",
+      "name_en": "Heirlooms：短局多世代傳承策略",
+      "scores": {
+        "gameplay": 3,
+        "originality": 3,
+        "emotional_depth": 4,
+        "virality": 3,
+        "commercial": 3,
+        "feasibility": 3,
+        "replay": 4,
+        "theme_integration": 4
+      },
+      "mean": 3.38,
+      "weighted_mean": 3.33,
+      "mechanics": [
+        "MEC-008",
+        "MEC-003",
+        "MEC-014",
+        "MEC-005"
+      ]
+    },
+    {
+      "id": "D",
+      "name_zh": "雙生人生",
+      "name_en": "Two Lives：同步操作兩條只差一件小事的人生",
+      "scores": {
+        "gameplay": 3,
+        "originality": 5,
+        "emotional_depth": 5,
+        "virality": 4,
+        "commercial": 3,
+        "feasibility": 3,
+        "replay": 3,
+        "theme_integration": 5
+      },
+      "mean": 3.88,
+      "weighted_mean": 3.76,
+      "mechanics": [
+        "MEC-009",
+        "MEC-016",
+        "MEC-006",
+        "MEC-013"
+      ]
+    },
+    {
+      "id": "E",
+      "name_zh": "遺物考古",
+      "name_en": "Remains：從程序生成的遺物推理一個人的一生",
+      "scores": {
+        "gameplay": 4,
+        "originality": 5,
+        "emotional_depth": 4,
+        "virality": 3,
+        "commercial": 3,
+        "feasibility": 2,
+        "replay": 3,
+        "theme_integration": 4
+      },
+      "mean": 3.5,
+      "weighted_mean": 3.48,
+      "mechanics": [
+        "MEC-010",
+        "MEC-011",
+        "MEC-014",
+        "MEC-022"
+      ]
+    },
+    {
+      "id": "F",
+      "name_zh": "交會",
+      "name_en": "Crossings：非同步多人，你的過去成為別人世界的偶然",
+      "scores": {
+        "gameplay": 3,
+        "originality": 5,
+        "emotional_depth": 5,
+        "virality": 4,
+        "commercial": 2,
+        "feasibility": 1,
+        "replay": 4,
+        "theme_integration": 5
+      },
+      "mean": 3.62,
+      "weighted_mean": 3.43,
+      "mechanics": [
+        "MEC-020",
+        "MEC-015",
+        "MEC-004"
+      ]
+    },
+    {
+      "id": "G",
+      "name_zh": "足跡",
+      "name_en": "Desire Lines：日常路線刻出地形的空間解謎",
+      "scores": {
+        "gameplay": 4,
+        "originality": 5,
+        "emotional_depth": 3,
+        "virality": 4,
+        "commercial": 3,
+        "feasibility": 4,
+        "replay": 3,
+        "theme_integration": 4
+      },
+      "mean": 3.75,
+      "weighted_mean": 3.76,
+      "mechanics": [
+        "MEC-003",
+        "MEC-012",
+        "MEC-005",
+        "MEC-021"
+      ]
+    }
+  ]
+}
